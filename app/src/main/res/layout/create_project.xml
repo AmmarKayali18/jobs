@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:background="#ddd"
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <EditText
+                android:id="@+id/name_project"
+                android:layout_width="330dp"
+                android:layout_height="70dp"
+                android:textColorHint="#fff"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                android:hint="write name project"
+                android:textAlignment="center" />
+            <EditText
+                android:id="@+id/project_money"
+                android:layout_width="330dp"
+                android:layout_height="70dp"
+                android:textColorHint="#fff"
+                android:layout_gravity="center"
+                android:layout_marginTop="50dp"
+                android:hint="write amount money"
+                android:textAlignment="center" />
+
+            <EditText
+                android:id="@+id/descreption_work"
+                android:layout_width="330dp"
+                android:layout_height="150dp"
+                android:textColorHint="#fff"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:hint="@string/description"
+                android:textAlignment="center" />
+
+            <ImageView
+                android:id="@+id/imageproject"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                />
+            <TextView
+                android:layout_width="330dp"
+                android:layout_height="wrap_content"
+                android:textColor="#59a9ff"
+                android:onClick="chose_imagee"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:text="@string/choses_image"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/specialization"
+                android:layout_width="330dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:textSize="18dp"
+                android:textColorHint="#fff"
+                android:hint="@string/specialization"
+                android:textAlignment="center" />
+
+            <Spinner
+                android:id="@+id/Qualification2"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+            </Spinner>
+
+            <Button
+                android:id="@+id/btn_project"
+                android:layout_width="330dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:onClick="up_post"
+                android:textAlignment="center"
+                android:layout_marginTop="40dp"
+                android:background="#1763ad"
+                android:textColor="#fff"
+                android:textSize="22dp"
+                android:text="create_project"
+                />
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
+

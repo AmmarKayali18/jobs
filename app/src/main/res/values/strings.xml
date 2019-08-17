@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">NavBot</string>
+    <string name="Worker">2</string>
+    <string name="Company">3</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <array name="spnner_value">
+        <item>COMPANY</item>
+        <item>WORKER</item>
+    </array>
+
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="no_account_yet_create_one">No Account Yet ? Create One</string>
+
+    <string name="Name">Name</string>
+    <string name="Adress">Adress</string>
+    <string name="Email2">Email</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="Password2">Password</string>
+    <string name="Re_enter_Password">Re_enter Password</string>
+    <string name="Create_account">Create Account</string>
+    <string name="Already_Account_login">Already Account ?? login</string>
+
+    <string name="home">home</string>
+    <string name="profile">profile</string>
+    <string name="notify">notify</string>
+    <string name="search">search</string>
+
+    <string name="Create_post">Create Post</string>
+    <string name="jobs">jobs</string>
+    <string name="Company2">Company</string>
+    <string name="worker2">worker</string>
+    <string name="Projects">Projects</string>
+    <string name="Groups">Groups</string>
+    <string name="Settings">Settings</string>
+    <string name="Logout">Logout</string>
+
+    <string name="Comment">Comment</string>
+    <string name="send_order">send order</string>
+
+    <string name="First_Name">First_Name</string>
+    <string name="Last_Name">Last_Name</string>
+    <string name="Nic_Name">Nic_Name</string>
+    <string name="Date">Date</string>
+    <string name="Staudy">Staudy</string>
+    <string name="Qualification">Qualification </string>
+    <string name="Create_cv">Create_cv</string>
+
+    <string name="write_number_worker_needed">write number worker needed</string>
+    <string name="description">description</string>
+    <string name="choses_image">shose image....</string>
+    <string name="specialization">specialization</string>
+    <string name="create_post">create post</string>
+
+    <string name="my_notification_title_template">My: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="my_notification_placeholder_text_template">You said %1$s and lorem ipsum dolor sit
+        amet, consectetur adipiscing elit. Etiam non enim magna. Morbi dictum, velit vel semper
+        venenatis, magna odio volutpat velit, at ullamcorper nulla lacus sed turpis. Pellentesque
+        vitae metus elit, nec tincidunt tellus. Integer sed nisl sem, ullamcorper ornare lacus. Duis
+        ac mauris sed massa congue volutpat. Donec sed erat sit amet turpis viverra rhoncus sit amet
+        nec magna. Donec lacinia ligula at libero volutpat volutpat nec nec tortor.
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

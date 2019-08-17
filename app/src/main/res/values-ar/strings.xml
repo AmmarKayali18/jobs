@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">انطلق</string>
+    <string name="Worker">2</string>
+    <string name="Company">3</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <array name="spnner_value">
+        <item>شركة</item>
+        <item>عامل</item>
+    </array>
+
+    <string name="Email">الايميل</string>
+    <string name="Password">كلمة السر</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="no_account_yet_create_one">ليس لديك حساب !! قم بانشاء حساب</string>
+
+    <string name="Name">الاسم</string>
+    <string name="Adress">العنوان</string>
+    <string name="Email2">الايميل</string>
+    <string name="mobile_number">رقم الهاتف</string>
+    <string name="Password2">كلمة السر</string>
+    <string name="Re_enter_Password"> اعد كتابة كلمة السر</string>
+    <string name="Create_account">انشاء الحساب</string>
+    <string name="Already_Account_login">لديك حساب مسبقا !! تسجيل الدخل</string>
+
+    <string name="home">الرئيسية</string>
+    <string name="profile">الصفحة الشخصية</string>
+    <string name="notify">اشعارات</string>
+    <string name="search">بحث</string>
+
+    <string name="Create_post">انشاء منشور</string>
+    <string name="jobs">الاعمال</string>
+    <string name="Company2">الشركات</string>
+    <string name="worker2">العمال</string>
+    <string name="Projects">المشاريع</string>
+    <string name="Groups">المجموعات</string>
+    <string name="Settings">الاعدادات</string>
+    <string name="Logout">تسجيل الخروج</string>
+
+    <string name="Comment">تعليق</string>
+    <string name="send_order">ارسال طلب</string>
+
+    <string name="First_Name">الاسم الاول</string>
+    <string name="Last_Name">الاسم الاخير</string>
+    <string name="Nic_Name">اللقب</string>
+    <string name="Date">تاريخ الولادة</string>
+    <string name="Staudy">الدراسة</string>
+    <string name="Qualification">الخبرات </string>
+    <string name="Create_cv">انشاء الملف الشخصي</string>
+
+    <string name="write_number_worker_needed">اكتب عدد الموظفون او العمال اللازمة</string>
+    <string name="description">وصف العمل</string>
+    <string name="choses_image">اختر صورة....</string>
+    <string name="specialization">مجال العمل</string>
+    <string name="create_post">انشاء المنشور</string>
+
+</resources>
